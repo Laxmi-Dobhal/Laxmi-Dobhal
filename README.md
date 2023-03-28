@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/Laxmi1Dobhal" target="blank"><img align="center" src="https://www.youtube.com/channel/UC3kkODhK7UQ4yIioVqk4xAg" alt="laxmi1dobhal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tinadobhal5084/about" target="blank"><img align="center" src="https://www.youtube.com/@tinadobhal5084/about" alt="https://www.youtube.com/@tinadobhal5084/about" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
