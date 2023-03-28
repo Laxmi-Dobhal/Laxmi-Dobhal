@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/102967888/228043853-fac55faa-bcbb-4f29-ae18-bb2c41bbe713.png))
 <h1 align="center">Hi 👋, I'm Laxmi-Dobhal</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="1000" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjupassamani%2Fjupassamani&psig=AOvVaw0TN6sYgNDzTGSdc4ylUU26&ust=1680029694685000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMiMncvk_P0CFQAAAAAdAAAAABA6">
+<img align="right" alt="coding" width="1000" src="sa=i&url=https%3A%2F%2Fgithub.com%2Fjupassamani%2Fjupassamani&psig=AOvVaw083KJnYM61n9rHveDc8Zt6&ust=1680071335403000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCLpdv__f0CFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi-dobhal&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi-dobhal" /> </p>
 
